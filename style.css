@@ -1,0 +1,9 @@
+table {
+    border: 1px solid #3dfaaa;
+    margin: 1.5px;
+}
+
+tr,td {
+    border: 1px solid #3dfaaa;
+    padding: 1em;
+}
